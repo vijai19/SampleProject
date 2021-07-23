@@ -5,17 +5,29 @@ public class GreensTech {
 	public void greensOmr() {
 
 		System.out.println("Greens Omr in duraipakkam");
+
         System.out.println("vijay");
 	}
 	
 	public void greensAdayar() {
 method();
+
+        System.out.println("grenns");
+	}
+	
+	public void greensAdayar() {
+demand();                                                                                                                                                                            
+
 		System.out.println("Greens Adayar in adayar");
 		
 	}
 	
+
 	private void method() {
-		// TODO Auto-generated method stub
+
+	private void demand() {
+
+		
 		
 	}
 
